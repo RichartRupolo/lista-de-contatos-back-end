@@ -1,0 +1,12 @@
+container/mysql/
+public_html/storage/app/.gitignore
+public_html/storage/app/public/.gitignore
+public_html/storage/framework/.gitignore
+public_html/storage/framework/cache/.gitignore
+public_html/storage/framework/cache/data/.gitignore
+public_html/storage/framework/sessions/.gitignore
+public_html/storage/framework/testing/.gitignore
+public_html/storage/framework/views/.gitignore
+public_html/storage/logs/
+public_html/storage/
+public_html/database/.gitignore
